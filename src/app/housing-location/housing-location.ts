@@ -1,6 +1,5 @@
 import { Component } from '@angular/core';
-
-@Component({
+import { HousingLocationInfo } from '../housinglocationinfo';@Component({
   selector: 'app-housing-location',
   imports: [],
   templateUrl: './housing-location.html',
